@@ -13,8 +13,3 @@ Premier is a sleek and minimalistic model management website created using only 
 - **HTML**: For structuring the web page content.
 - **CSS**: For styling, layout, and animations.
 
-## 🖥️ How to Run
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/tanmay-tiwari-20/premier.git
